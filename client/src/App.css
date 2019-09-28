@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page-title{
+  text-align: center;
+  display: block !important;
+}
+
+.ui.teal.button:focus, .ui.teal.buttons .button:focus {
+  background-color: #00b5ad !important;
+}
